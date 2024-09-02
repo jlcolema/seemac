@@ -1,0 +1,17 @@
+/*--------------------------------------------------------------------------------------------- 
+
+	Print Css Stylesheet
+
+---------------------------------------------------------------------------------------------*/
+
+body { background: none; }
+
+#wrap{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	border: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	}
